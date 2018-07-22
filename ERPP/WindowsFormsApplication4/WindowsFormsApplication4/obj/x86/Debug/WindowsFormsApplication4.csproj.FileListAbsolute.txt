@@ -1,0 +1,87 @@
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Xtreme Computers\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.connection.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.GRN.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.po_invoice.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order_challan.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.so_invoice.resources
+C:\Users\Xtreme Computers\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Haier\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Downloads\Compressed\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.connection.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.GRN.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.po_invoice.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order_challan.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.so_invoice.resources
+C:\Users\Haier\Desktop\USama\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.connection.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.GRN.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.po_invoice.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order_challan.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.so_invoice.resources
+C:\Users\Haier\Desktop\USama\erp\WindowsFormsApplication4\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.connection.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.GRN.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.po_invoice.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order_challan.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.so_invoice.resources
+C:\Users\Haier\Desktop\USama\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.connection.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form4.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.GRN.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.po_invoice.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order_challan.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.sales_order.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.so_invoice.resources
+C:\Users\Haier\Desktop\USama\BS3B\VP\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister projects\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+C:\Users\Haier\Desktop\USama\BS3B\VP\semister projects\ERPP\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
